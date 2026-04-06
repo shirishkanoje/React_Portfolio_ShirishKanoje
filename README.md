@@ -2,7 +2,7 @@
 This is a UI demo of my React-Portfolio project. Full source code is private for copyright reasons.
 ## 🔗 Live Demo
 
-👉 [Click here to view live project](https://react-portfolio-shirishkanoje.vercel.app/)
+👉 [Click here to view live project](https://shirishkanoje.vercel.app/)
 
 ![Screenshot 2025-05-31 233005](https://github.com/user-attachments/assets/8dfc3642-7883-4761-a638-2396c9083ce3)
 ![Screenshot 2025-05-31 233037](https://github.com/user-attachments/assets/52ab7628-8b0b-493c-bde6-9b73668b93b5)
